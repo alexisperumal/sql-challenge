@@ -2,6 +2,19 @@
 UCSD Data Science Bootcamp, Unit 9, SQL Project
 Alexis Perumal, 1/26/20
 
+# Key Submission Files
+
+• 2020-02-26 SQL HW-Employee DB.pdf - ERD diagram of the database schema. https://github.com/alexisperumal/sql-challenge/blob/master/2020-02-26%20SQL%20HW-Employee%20DB.pdf
+
+• sql-challenge-schema.sql - SQL to create the database tables. https://github.com/alexisperumal/sql-challenge/blob/master/EmployeeSQL/sql-challenge-schema.sql
+
+• sql-challenge-alexis.sql - SQL to create the database tables and do the queries. https://github.com/alexisperumal/sql-challenge/blob/master/EmployeeSQL/sql-challenge-alexis.sql
+
+• 2020-02-26 SQL Data Analysis.docx - MS Word file with the query output. https://github.com/alexisperumal/sql-challenge/blob/master/2020-02-26%20SQL%20Data%20Analysis.docx
+
+• SQL_Alchemy_Analysis.ipynb - Jupyter notebook file with SQLalchemy analysis where we can see similar salarie levels across job types. https://github.com/alexisperumal/sql-challenge/blob/master/EmployeeSQL/SQL_Alchemy_Analysis.ipynb
+
+
 # Instructions
 
 ## Data Modeling
